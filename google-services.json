@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652863268253",
+    "project_id": "thichcay-com",
+    "storage_bucket": "thichcay-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652863268253:android:f4554e13b0a36b4dcafb74",
+        "android_client_info": {
+          "package_name": "com.thichcay.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652863268253-r3h94ahc7ljab77jspvet01otki6r49p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLH8vHU_hTy_f7-9tuWIYCLBzoGGh7Gww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652863268253-r3h94ahc7ljab77jspvet01otki6r49p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
